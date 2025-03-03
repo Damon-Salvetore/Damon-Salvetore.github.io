@@ -17,7 +17,7 @@ redirect_from:
 ### BEng degree at South China University of Technology (SCUT)
 &emsp;
 
-Yingbo HAO is now a PhD candidate at South China University of Technology (SCUT) supervised by **Dr. Yi Zou** (Chair Professor, Intel Labs, SMIEEE). His current research interests are accelerating LLM inferrence, software/hardware codesign, quantization for LLM.
+Yingbo HAO is now a PhD candidate at South China University of Technology (SCUT) supervised by **Dr. Yi Zou** (Chair Professor, Intel Labs, SMIEEE). His current research interests are Accelerating LLM inferrence, Software/hardware codesign, Quantization for LLM.
 
 
 **Email:** 202410193423@mail.scut.edu.cn or 3259482542@qq.com
