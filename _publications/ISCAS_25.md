@@ -2,7 +2,7 @@
 title: "SAAM: A Systolic Array Based Accelerator Using Adaptive Microscaling Format for LLM Inference"
 collection: publications
 permalink: /publication/ISCAS_25
-excerpt: 'This paper designs an improved systolic array and hardware-friendly encoding scheme utilizing MX format resulting in a high-performance dataflow framework.'
+excerpt: 'This paper introduces the SAAM, a systolic array based accelerator using adaptive MX format. SAAM achieves high performance gain with low hardware overhead.'
 date: 2025-05-25
 venue: 'ISCAS'
 paperurl: 'To be released later'
