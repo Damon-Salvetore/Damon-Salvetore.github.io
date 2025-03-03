@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### PhD student in Electronic Science and Technology, South China University of Technology (SCUT), 2024.09 - Present
+* Supervised by Prof. Yi Zou.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### BEng in Microelectronics, South China University of Technology (SCUT), 2020.09 - 2024.06
+* Score  89/100, GPA 3.79/4
+* Rank   6/50
+* Supervised by Prof. Yi Zou
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Interests
+======
+* Accelerating LLM Inferrence
+* Neural Network Quantization
+* Software/Hardware codesign
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Awards and Honors
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* SCUT Excellent Graduation Project (Dissertation), 2024 (Top 1%)
+* Macau Alumni Association Scholarship, 2023 (Top 4%)
+* SCUT Second-class Scholarship, 2022 (Top 10%)
+* SCUT Second-class Scholarship, 2021 (Top 10%)
 
-Publications
+Service and Leadership
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Vice-Minister of Community Management, SCUT
+* Excellent Social Practice Volunteer, SCUT
