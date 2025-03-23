@@ -27,8 +27,6 @@ Yingbo HAO is now a PhD candidate at South China University of Technology (SCUT)
 ## News
 **[26/02/2025] DAC'25 :** One co-first-authored (ECA) paper, **An Algorithm-Hardware Co-design Solution with Revised Microscaling Format Quantization for Accelerating Large Language Models** , has been accepted by DAC'25! Congrats!🎉
 
-**[09/01/2025] ISCAS'25:** One co-first-authored (ECA) paper, **SAAM: A Systolic Array Based Accelerator Using Adaptive Microscaling Format for LLM Inference** , has been accepted by ISCAS'25! Congrats!🎉
-
 **[19/06/2024] Thesis:** My Bachelor's degree thesis, **Design and Study of Reconfigurable Arithmetic Architecture for In-Memory-Computing**, has been selected as the excellent graduation project (thesis) of SCUT! Congrats!🎉
 
 **[13/11/2024] ICCS'24:** One co-first-authored (ECA) paper, **A Dynamic Logic Based Reconfigurable Digital CIM Macro for Edge Computing**, has been accepted by ICCS'24! Congrats!🎉
@@ -39,8 +37,6 @@ I am honored to have co-organized a collaborative research group spanning multip
 The details of the projects and collaborations are as follows (Only first/co-first author and corresponding author):
 
 **[DAC'25]** Research on **algorithm-hardware co-design for LLM** circuit design and its design automation, conducted by Yingbo Hao (HKUST) and Huangxu Chen (HKUST(GZ)).
-
-**[ISCAS'25]** Research on **accelerator for LLM** design, conducted by Yingbo Hao (SCUT) and Huangxu Chen (HKUST(GZ)).
 
 **[ICCS'24]** Research on **in-memory-computing**, conducted by Yingbo Hao (SCUT) and Huangxu Chen (HKUST(GZ)).
 
