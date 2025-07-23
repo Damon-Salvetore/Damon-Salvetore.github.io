@@ -22,7 +22,7 @@ Education
 Research Interests
 ======
 * Accelerating LLM Inferrence
-* Neural Network Quantization
+* LLM Quantization
 * Software/Hardware codesign
 
 Awards and Honors
